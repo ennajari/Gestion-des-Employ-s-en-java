@@ -28,7 +28,9 @@ Affichage des détails des employés.
 Calcul du salaire pour chaque catégorie d'employé avec des valeurs par défaut.
 
 **Comment Utiliser**
-Clonez le projet sur votre machine locale : git clone https://github.com/votre_nom/GestionEmployes.git
+Clonez le projet sur votre machine locale : git clone [https://github.com/votre_nom/GestionEmployes.git](https://github.com/ennajari/Gestion-des-Employ-s-en-java/edit/main/README.md)
+
 Compilez les fichiers Java : javac *.java
-Exécutez la classe principale : java MainProgram
+Exécutez la classe principale : java Principale
+
 N'hésitez pas à contribuer en ajoutant de nouvelles fonctionnalités, des améliorations ou des corrections de bugs. Vos retours sont les bienvenus ! 😊 @Ennajari_Abdellah
