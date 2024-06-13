@@ -1,5 +1,4 @@
 import java.util.Date;
-
 public class Cadre extends Empolye {
     private String Departement;
 
