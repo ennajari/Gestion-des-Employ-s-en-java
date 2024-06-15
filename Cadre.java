@@ -5,7 +5,6 @@ public class Cadre extends Empolye {
         super(Matricule, Nom, Prenom, Date_N);
         this.Departement = Departement;
     }
-
     public void afficher() {
         super.afficher();
         System.out.println("Departement : " + Departement);
