@@ -11,7 +11,6 @@ public class Ouvrier extends Empolye {
     public Date getDate_Entree() {
         return Date_Entree;
     }
-
     @Override
     public void GetSalaire() {
         System.out.println("Salaire de l'ouvrier : 2000.0");
