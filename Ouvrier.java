@@ -7,7 +7,6 @@ public class Ouvrier extends Empolye {
         super(Matricule, Nom, Prenom, Date_N);
         this.Date_Entree = Date_Entree;
     }
-
     public Date getDate_Entree() {
         return Date_Entree;
     }
