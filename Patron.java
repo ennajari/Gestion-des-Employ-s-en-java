@@ -7,7 +7,6 @@ public class Patron extends Empolye {
         super(Matricule, Nom, Prenom, Date_N);
         this.entreprise = entreprise;
     }
-
     public void afficher() {
         super.afficher();
         System.out.println("Entreprise :" + entreprise);
