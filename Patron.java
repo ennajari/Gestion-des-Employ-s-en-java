@@ -11,7 +11,6 @@ public class Patron extends Empolye {
         super.afficher();
         System.out.println("Entreprise :" + entreprise);
     }
-
     @Override
     public void GetSalaire() {
         System.out.println("Salaire : 10000.0");
