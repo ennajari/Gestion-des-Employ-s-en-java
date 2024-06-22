@@ -1,5 +1,4 @@
 import java.util.Date;
-
 public class Patron extends Empolye {
     private String entreprise;
 
