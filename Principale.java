@@ -2,7 +2,6 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;
-
 public class Principale {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
