@@ -9,7 +9,6 @@ public class Cadre extends Empolye {
         super.afficher();
         System.out.println("Departement : " + Departement);
     }
-
     @Override
     public void GetSalaire() {
         System.out.println("Salaire : 4000.0");
