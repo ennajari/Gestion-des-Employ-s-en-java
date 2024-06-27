@@ -7,7 +7,6 @@ public class Principale {
         Scanner scanner = new Scanner(System.in);
         SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");
 // Saisie des données pour un ouvr
-
         System.out.println("Saisie des données pour un ouvrier:");
         System.out.print("Matricule: ");
         String matriculeOuvrier = scanner.nextLine();
