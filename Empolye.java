@@ -1,5 +1,4 @@
 import java.util.Date;
-
 public abstract class Empolye {
     private String Matricule;
     private String Nom;
