@@ -4,7 +4,6 @@ public abstract class Empolye {
     private String Nom;
     private String Prenom;
     private Date Date_N;
-
     public Empolye(String Matricule, String Nom, String Prenom, Date Date_N) {
         this.Matricule = Matricule;
         this.Nom = Nom;
