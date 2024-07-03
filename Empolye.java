@@ -10,7 +10,6 @@ public abstract class Empolye {
         this.Prenom = Prenom;
         this.Date_N = Date_N;
     }
-
     public String getMatricule() {
         return Matricule;
     }
