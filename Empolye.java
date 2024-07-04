@@ -31,7 +31,6 @@ public abstract class Empolye {
     public void setPrenom(String Prenom) {
         this.Prenom = Prenom;
     }
-
     public void setDate_N(Date Date_N) {
         this.Date_N = Date_N;
     }
