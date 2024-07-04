@@ -19,7 +19,6 @@ public abstract class Empolye {
     public String getPrenom() {
         return Prenom;
     }
-
     public Date getDate_N() {
         return Date_N;
     }
