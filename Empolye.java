@@ -29,7 +29,6 @@ public abstract class Empolye {
     public void setMatricule(String Matricule) {
         this.Matricule = Matricule;
     }
-
     public void setNom(String Nom) {
         this.Nom = Nom;
     }
