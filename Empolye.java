@@ -28,7 +28,6 @@ public abstract class Empolye {
     public void setNom(String Nom) {
         this.Nom = Nom;
     }
-
     public void setPrenom(String Prenom) {
         this.Prenom = Prenom;
     }
