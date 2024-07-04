@@ -13,7 +13,6 @@ public abstract class Empolye {
     public String getMatricule() {
         return Matricule;
     }
-
     public String getNom() {
         return Nom;
     }
