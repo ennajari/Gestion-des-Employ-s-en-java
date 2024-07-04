@@ -22,7 +22,6 @@ public abstract class Empolye {
     public Date getDate_N() {
         return Date_N;
     }
-
     public void setMatricule(String Matricule) {
         this.Matricule = Matricule;
     }
