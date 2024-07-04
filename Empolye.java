@@ -34,7 +34,6 @@ public abstract class Empolye {
     public void setDate_N(Date Date_N) {
         this.Date_N = Date_N;
     }
-
     public void afficher() {
         System.out.println("Matricule :" + Matricule);
         System.out.println("Nom :" + Nom);
