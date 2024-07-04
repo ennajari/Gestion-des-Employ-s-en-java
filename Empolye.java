@@ -40,6 +40,5 @@ public abstract class Empolye {
         System.out.println("Prenom :" + Prenom);
         System.out.println("Date de naissance :" + Date_N);
     }
-
     public abstract void GetSalaire();
 }
