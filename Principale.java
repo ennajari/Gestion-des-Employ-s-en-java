@@ -31,7 +31,6 @@ public class Principale {
         Date dateNaissanceCadre = readDate(scanner);
         System.out.print("Département: ");
         String departementCadre = scanner.nextLine();
-
         Cadre cadre = new Cadre(matriculeCadre, nomCadre, prenomCadre, dateNaissanceCadre, departementCadre);
 
         // Saisie des données pour un patron
