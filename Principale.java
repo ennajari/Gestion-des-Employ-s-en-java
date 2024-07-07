@@ -18,7 +18,6 @@ public class Principale {
         Date dateNaissanceOuvrier = readDate(scanner);
         System.out.print("Date d'entrée à la société (yyyy-MM-dd): ");
         Date dateEntreeOuvrier = readDate(scanner);
-
         Ouvrier ouvrier = new Ouvrier(matriculeOuvrier, nomOuvrier, prenomOuvrier, dateNaissanceOuvrier, dateEntreeOuvrier);
 
         // Saisie des données pour un cadre
